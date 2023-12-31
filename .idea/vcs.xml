@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Authentification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroDeroulementEnseignements" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroGestChoixEnseignement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroGestMaquettes" vcs="Git" />
+  </component>
+</project>
